@@ -1,0 +1,26 @@
+
+.first{
+    width: 100%;
+    min-height: 900px;
+}
+
+.first_left{
+    float: left;
+    overflow: hidden;
+    width: 4%;
+}
+
+
+.first_mid{
+    float: left;
+    padding-left: 10px;
+    overflow: hidden;
+    width: 60%;
+
+}
+
+.first_right{
+    overflow: hidden;
+    width: 100%;
+    padding-right: 2%;
+}

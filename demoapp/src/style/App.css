@@ -1,0 +1,20 @@
+.box {
+    margin: auto;
+    padding: 10px 10px 0 10px;
+}
+
+.box * {
+    margin: auto 5px;
+}
+
+input::-ms-input-placeholder {
+    text-align: center;
+}
+
+input::-webkit-input-placeholder {
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+}

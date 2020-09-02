@@ -1,0 +1,19 @@
+.check_body {
+    background: white;
+    border-radius: 5px;
+    margin: 10px;
+    overflow: hidden;
+    padding-left: 10px;
+    min-height: 900px;
+    padding-bottom: 20px;
+}
+
+.dill{
+    min-height: 900px;
+    overflow: hidden;
+}
+
+.dillPage {
+    float: left;
+    width: 100%;
+}
